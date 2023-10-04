@@ -44,7 +44,7 @@ Please cite this paper if you use this dataset in your own work.
 @inproceedings{
 bonnet2022an,
 title={An extensible Benchmarking Graph-Mesh dataset for studying Steady-State Incompressible Navier-Stokes Equations},
-author={Florent Bonnet and Jocelyn Ahmed Mazari and Thibaut Munzer and Pierre Yser and patrick gallinari},
+author={Florent Bonnet and Jocelyn Ahmed Mazari and Thibaut Munzer and Pierre Yser and Patrick Gallinari},
 booktitle={ICLR 2022 Workshop on Geometrical and Topological Representation Learning},
 year={2022},
 url={https://openreview.net/forum?id=rqUUi4-kpeq}
